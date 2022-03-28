@@ -1,0 +1,15 @@
+#div_avo {
+    background-color: #bd8236; width: 740px; height: 740px; 
+}
+#div_pai {
+    background-color:#35ffe4; width: 370px; height: 370px;
+}
+#paragrafo_filho {
+    background-color: rgb(151, 173, 184); color: rgb(37, 155, 8); font-size: 25px; font-family: -apple-system; font-weight: lighter;
+}
+#div_outra{
+    width: 45%; height: 100px; background-color: rgb(255, 0, 106);
+}
+#div_outrafilha{
+    width: 7%; height: 302px; background-color: rgb(80, 118, 150)
+}
